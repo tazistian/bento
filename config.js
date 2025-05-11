@@ -104,15 +104,15 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Deepseek',
-			icon: 'bot',
-			link: 'https://chat.deepseek.com/',
-		},
-		{
-			id: '4',
 			name: 'Amazon',
 			icon: 'shopping-bag',
 			link: 'https://www.amazon.in/',
+		},
+		{
+			id: '4',
+			name: 'Deepseek',
+			icon: 'bot',
+			link: 'https://chat.deepseek.com/',
 		},
 		{
 			id: '5',
