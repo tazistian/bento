@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Anki',
+			icon: 'star',
+			link: 'https://ankiweb.net/decks',
 		},
 		{
 			id: '6',
