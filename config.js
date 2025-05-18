@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Anki',
-			icon: 'star',
-			link: 'https://ankiweb.net/decks',
+			name: 'Pomodoro',
+			icon: 'hourglass',
+			link: 'https://pomofocus.io/',
 		},
 		{
 			id: '6',
